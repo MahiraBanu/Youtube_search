@@ -120,7 +120,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-YOUTUBE_DATA_API_KEY = 
+## YOUTUBE_DATA_API_KEY = add youtube api here 
 
 
 
